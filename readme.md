@@ -2,9 +2,9 @@
 
 # Challenge NLW#09 - eSports - Explorer
 
-## Acesse em
+## Acesso
 
-[Link do Site](https://busolin.github.io/NLW09Challenge-Explorer/)
+[Clique aqui](https://busolin.github.io/NLW09Challenge-Explorer/)
 
 ## Descrição do Projeto
 
