@@ -4,7 +4,7 @@
 
 ## Acesse em
 
-![Link do Site](https://busolin.github.io/NLW09Challenge-Explorer/)
+[Link do Site](https://busolin.github.io/NLW09Challenge-Explorer/)
 
 ## Descrição do Projeto
 
